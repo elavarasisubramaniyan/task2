@@ -1,0 +1,6 @@
+Difference between Document and Window object:
+           document                                                window
+
+   Document object is a property of window object.                  The window object represents the browser window.
+   It represents the HTML document loaded in the window.            It has many useful properties like the location object and 
+                                                                    the set timeout function. window object is the global object.
